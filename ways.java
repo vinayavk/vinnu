@@ -8,7 +8,7 @@ class Ideone
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		Scanner sc=new Scanner(System.in);
-		int n,i,j,k,x,y,r,t=0,count=0;
+		int n,i,j,k,x,y,r,t=1,count=0;
 		n=sc.nextInt();
 		int[] a=new int[n];
 		int temp=n;
